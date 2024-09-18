@@ -1,0 +1,49 @@
+.yeseva-one-regular {
+  font-family: "Yeseva One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
+.quattrocento-regular {
+  font-family: "Quattrocento", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.quattrocento-bold {
+  font-family: "Quattrocento", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.orbital-bold {
+font-family: "orbital", sans-serif;
+font-weight: 700;
+font-style: normal;}
+p{ padding-left:40px }
+h1{ font-family: "orbital"; color: #001B48 }
+
+h2 {font-family: "orbital"; color:  #02457A }
+
+h3 {font-family: "orbital"; color: rgb(124,98,148) }
+
+body {font-family: "Quattrocento"; 
+  color: #001B48; background-color: #D6E8EE; 
+  line-height: 1.25; margin:45px; font-size: 16px }
+
+ul { 
+list-style-image: url(bulletstar.png); }
+
+a:link { color: #018ABE }
+a:visited { color: #02457A; }
+a:hover {color: #97CADB;}
+a:active {color: #97cadb}
+
+img {border: 10px solid #97CADB; margin-right: 60px}
+
+.title {
+  color:  #018ABE;
+}
